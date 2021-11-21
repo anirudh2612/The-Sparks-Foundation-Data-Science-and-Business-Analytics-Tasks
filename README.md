@@ -36,8 +36,11 @@ To see the implementation check this link - https://github.com/SaiSharanyaY/The-
 
 To see the implementation click on this link - https://github.com/SaiSharanyaY/The-Sparks-Foundation-Data-Science-and-Business-Analytics-Tasks/tree/main/Task%203
 
+## Task 8 - Timeline Analysis Covid-19
 
-
+      Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts.
+      
+To see the implementation click on this link - https://github.com/SaiSharanyaY/The-Sparks-Foundation-Data-Science-and-Business-Analytics-Tasks/tree/main/Task%208
 # Authors
 
 * **Sai Sharanya Y**  - [Github](https://github.com/SaiSharanyaY)
